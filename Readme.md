@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Тимофтий](https://up.htmlacademy.ru/adaptive/21/user/1572491).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Бервяченок`.
 
 ---
 
